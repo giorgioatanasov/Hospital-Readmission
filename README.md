@@ -1,1 +1,3 @@
 # Hospital-Readmission
+
+Analysis of hospital readmission rates for diabetic patients. Four machine learning models; Decision Trees, Support Vector Machines, Ran- dom Forest, and Gradient Boost Classifier were used in order to most accurately predict if a patient with diabetes will be readmitted to the hospital within 30 days. In order to achieve this, data exploration, feature engineering, building training and validation samples, model selection, and model evaluation were all used in this process. These models will be training on a data set that represents 10 years of clinical care at 130 US hospitals.
